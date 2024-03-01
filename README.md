@@ -108,7 +108,7 @@ If You don't have a account in Heroku. Create a account.
 <img src="https://i.imgur.com/FX2S9eI.jpg" alt="Image"> 
 
 
-<h1 align="center"> 🔬YUTA-MD🔬
+<h1 align="center"> 🔬CELL-MD🔬
 </p></p>
 
 Excel ©2024

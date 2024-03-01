@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://wa.me/2349028622713">
-<img src="https://i.ibb.co/NFx8vZF/20240225-100200-1.jpg" alt="20240225-100200-1" border="0">
+<img src="https://i.ibb.co/R6GRRPw/df14da94318db05a092e862ff89be9d8.jpg" alt="20240225-100200-1" border="0">
 
 
 

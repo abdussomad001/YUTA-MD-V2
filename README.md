@@ -11,7 +11,7 @@
 
 
 
-<h1 align="center"> ⚔️YUTA-MD⚔️
+<h1 align="center"> 🔬CELL-MD🔬
 </p>
       <p align="center">
   <a href="https://wa.me//+2349028622713" target="_blank">

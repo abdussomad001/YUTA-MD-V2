@@ -48,7 +48,7 @@
 ## Deployment Methods
 
 
-  ＊SET UP FOR ⚔️YUTA-MD⚔️
+  ＊SET UP FOR 🔬CELL-MD🔬
 
     
 ➤FORK THE REPOSITORY (Repo) 
@@ -56,7 +56,7 @@
 <a href="https://github.com/abdussomad001/YUTA-MD/fork"><img title="YUTA" src="https://img.shields.io/badge/FORK YUTA-MD?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
-➤  GET SESSION  ID FOR  ⚔️YUTA-MD⚔️
+➤  GET SESSION  ID FOR  🔬CELL-MD🔬
   
     
 <a href="https://r.mtdv.me/EXCEL-MDX"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="70" /></a>

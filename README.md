@@ -3,7 +3,7 @@
 [`ℹ️ABOUT BOT:-CODED  BY ABDUL & EXCEL`](https://wa.me/2347045035241)
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=600&pause=600&color=BBFFFB&random=false&width=435&lines=+Hi++%E1%95%95(+%D5%9E+%E1%97%9C+%D5%9E+)%E1%95%97+I'm+🔰YUTA-MD V2.0🔰................+;A+Multi-fuctional+WhatsApp+Bot;+++++Coded BY+ABDUL AND EXCEL AMADI" alt="Typing SVG" /></a>  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=600&pause=600&color=BBFFFB&random=false&width=435&lines=+Hi++%E1%95%95(+%D5%9E+%E1%97%9C+%D5%9E+)%E1%95%97+I'm+🔰YUTA-MD V2🔰................+;A+Multi-fuctional+WhatsApp+Bot;+++++Coded BY+ABDUL AND EXCEL AMADI" alt="Typing SVG" /></a>  
 
 <p align="center">
   <a href="https://wa.me/2349028622713">

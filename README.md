@@ -1,4 +1,4 @@
-``🔬YUTA-MD V2.0🔬``
+``🔰YUTA-MD V2.0🔰``
 
 [`ℹ️ABOUT BOT:-CODED  BY ABDUL & EXCEL`](https://wa.me/2347045035241)
 

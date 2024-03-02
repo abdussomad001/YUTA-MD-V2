@@ -1,9 +1,9 @@
-``🔬CELL-MD🔬``
+``🔬YUTA-MD V2.0.0🔬``
 
 [`ℹ️ABOUT BOT:-CODED  BY ABDUL & EXCEL`](https://wa.me/2347045035241)
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=600&pause=600&color=BBFFFB&random=false&width=435&lines=+Hi++%E1%95%95(+%D5%9E+%E1%97%9C+%D5%9E+)%E1%95%97+I'm+🔬CELL-MD🔬................+;A+Multi-fuctional+WhatsApp+Bot;+++++Coded BY+ABDUL AND EXCEL AMADI" alt="Typing SVG" /></a>  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=600&pause=600&color=BBFFFB&random=false&width=435&lines=+Hi++%E1%95%95(+%D5%9E+%E1%97%9C+%D5%9E+)%E1%95%97+I'm+🔰YUTA-MD V2.0.0🔰................+;A+Multi-fuctional+WhatsApp+Bot;+++++Coded BY+ABDUL AND EXCEL AMADI" alt="Typing SVG" /></a>  
 
 <p align="center">
   <a href="https://wa.me/2349028622713">
@@ -11,7 +11,7 @@
 
 
 
-<h1 align="center"> 🔬CELL-MD🔬
+<h1 align="center"> 🔰YUTA-MD V2.0.0🔰
 </p>
       <p align="center">
   <a href="https://wa.me//+2349028622713" target="_blank">
@@ -48,7 +48,7 @@
 ## Deployment Methods
 
 
-  ＊SET UP FOR 🔬CELL-MD🔬
+  ＊SET UP FOR 🔰YUTA-MD V2.0.0🔰
 
     
 ➤FORK THE REPOSITORY (Repo) 
@@ -56,7 +56,8 @@
 <a href="https://github.com/abdussomad001/YUTA-MD/fork"><img title="YUTA" src="https://img.shields.io/badge/FORK YUTA-MD?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
-➤  GET SESSION  ID FOR  🔬CELL-MD🔬
+➤  GET SESSION  ID FOR  🔰YUTA-MD V2.0
+.0🔰
   
     
 <a href="https://r.mtdv.me/EXCEL-MDX"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="70" /></a>
@@ -108,7 +109,7 @@ If You don't have a account in Heroku. Create a account.
 <img src="https://i.imgur.com/FX2S9eI.jpg" alt="Image"> 
 
 
-<h1 align="center"> 🔬CELL-MD🔬
+<h1 align="center"> 🔰YUTA-MD V2.0.0🔰
 </p></p>
 
 Excel ©2024
